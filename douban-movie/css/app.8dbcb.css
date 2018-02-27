@@ -2255,7 +2255,7 @@ svg {
   max-width: 100%; }
 
 #root, .app {
-  height: 100%; }
+  background: #ffffff; }
 
 .page {
   display: -webkit-box;
@@ -2401,7 +2401,9 @@ section p {
     margin: 0 auto; }
   .page footer {
     width: 768px;
-    margin: 0 auto; } }
+    margin: 0 auto; }
+  .page header {
+    width: 768px; } }
 
 .rating {
   display: -webkit-box;
