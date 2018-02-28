@@ -2578,3 +2578,7 @@ section p {
 
 .page-filmmaker .details section, .page-movie .details section {
   margin-bottom: 1rem; }
+
+.am-search-input input[type="search"], .am-search-input .am-search-synthetic-ph, .am-search-input {
+  height: 1rem;
+}
