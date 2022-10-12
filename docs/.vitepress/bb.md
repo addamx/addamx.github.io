@@ -1,5 +1,6 @@
 ---
-title: 主页
+title: bb Demo
+editLink: true
 ---
 
 # {{ $frontmatter.title }}

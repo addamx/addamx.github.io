@@ -1,0 +1,19 @@
+[
+    {
+        "collapsible": true,
+        "collapsed": true,
+        "text": "inbox",
+        "items": []
+    },
+    {
+        "collapsible": true,
+        "collapsed": true,
+        "text": "学习",
+        "items": [
+            {
+                "text": "a",
+                "link": "/学习/a"
+            }
+        ]
+    }
+]
