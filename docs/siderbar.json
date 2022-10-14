@@ -2,8 +2,13 @@
     {
         "collapsible": true,
         "collapsed": true,
-        "text": "inbox",
-        "items": []
+        "text": "javascript",
+        "items": [
+            {
+                "text": "Js Points",
+                "link": "/javascript/Js Points"
+            }
+        ]
     },
     {
         "collapsible": true,
